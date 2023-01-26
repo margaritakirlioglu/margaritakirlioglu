@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @margiekirl
+- 👋 Hi, I’m @margaritakirlioglu
 - 👀 I’m interested in making the world a better place
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
